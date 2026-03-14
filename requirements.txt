@@ -1,0 +1,25 @@
+# AI Agent Tutorial Requirements
+# Python 3.10+
+
+# Core
+langchain>=0.1.0
+langchain-openai>=0.0.5
+openai>=1.12.0
+python-dotenv>=1.0.0
+
+# Tools
+duckduckgo-search>=4.0.0
+wikipedia>=1.4.0
+requests>=2.31.0
+
+# Optional (for advanced features)
+tenacity>=8.2.0
+chromadb>=0.4.0  # Vector database for RAG
+fastapi>=0.109.0  # API server
+uvicorn>=0.27.0  # ASGI server
+streamlit>=1.31.0  # Frontend
+
+# Development
+pytest>=8.0.0
+black>=24.1.0
+flake8>=7.0.0
