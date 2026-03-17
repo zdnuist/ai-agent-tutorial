@@ -1,7 +1,7 @@
 # 🤖 AI Agent 开发教程
 
 > **从零开始学习 AI Agent 开发**  
-> 📅 2026 年 3 月更新 | 👨‍💻 [@zdnuist](https://github.com/zdnuist)
+> 📅 2026 年 3 月更新 | 👨‍💻 [@Gale2World](https://github.com/zdnuist)
 
 [![Stars](https://img.shields.io/github/stars/zdnuist/ai-agent-tutorial)](https://github.com/zdnuist/ai-agent-tutorial/stargazers)
 [![Issues](https://img.shields.io/github/issues/zdnuist/ai-agent-tutorial)](https://github.com/zdnuist/ai-agent-tutorial/issues)
@@ -104,12 +104,6 @@ python examples/01_simple_agent.py
 - 常见问题 FAQ
 - 工具库合集
 
-### 3. 读者群
-扫码加入读者交流群：
-
-```
-[二维码图片位置]
-```
 
 ### 4. 持续更新
 Star 这个仓库，获取最新更新通知 ⭐
@@ -161,16 +155,15 @@ Star 这个仓库，获取最新更新通知 ⭐
 
 | 平台 | 链接 |
 |------|------|
-| GitHub | [@zdnuist](https://github.com/zdnuist) |
-| 掘金 | [个人主页](https://juejin.cn/user/xxx) |
-| 知乎 | [个人主页](https://zhihu.com/people/xxx) |
-| 邮箱 | zdnuist@example.com |
+| GitHub | [@Gale2World](https://github.com/zdnuist) |
+| 掘金 | [个人主页](https://juejin.cn/user/2400989123712862) |
+| 邮箱 | brandon_ai@163.com |
 
 ---
 
 ## 📄 许可证
 
-MIT License © 2026 [@zdnuist](https://github.com/zdnuist)
+MIT License © 2026 [@Gale2World](https://github.com/zdnuist)
 
 ---
 

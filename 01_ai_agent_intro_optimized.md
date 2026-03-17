@@ -4,7 +4,7 @@
 > **难度：** ⭐⭐ 入门  
 > **适合人群：** 有 Python 基础的开发者  
 > **2026 年 3 月更新**  
-> **作者：** [@zdnuist](https://github.com/zdnuist) - GitHub 开源贡献者
+> **作者：** [@Gale2World](https://github.com/zdnuist) - GitHub 开源贡献者
 
 ---
 
@@ -506,14 +506,6 @@ https://github.com/zdnuist/ai-agent-tutorial
 
 **Star 这个仓库，获取最新更新！** ⭐
 
-### 读者交流群
-
-扫码加入读者交流群：
-
-```
-[二维码图片位置]
-```
-
 **群福利：**
 -  每周技术分享
 - 💬 问题互助答疑
@@ -569,7 +561,7 @@ https://github.com/zdnuist/ai-agent-tutorial
 
 **关于作者：**
 
-[@zdnuist](https://github.com/zdnuist)
+[@Gale2World](https://github.com/zdnuist)
 - GitHub 开源贡献者
 - 全栈开发者（Python/Go/Rust）
 - 专注 AI Agent 和自动化
